@@ -1,0 +1,10 @@
+{
+    
+    "Mith": {
+      "dbConfig": {
+        "host": "localhost",
+        "port": 5500,
+        "dbName": "mongodb+srv://Bootcamps:JaJ9PTGRxDLjNEIs@cluster0.0xp7j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+      }
+    }
+  }
